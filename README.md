@@ -4,7 +4,7 @@
 
 This forum is used for technical conversations in the BioXARZ-2 community, which have to do with the development of BioXARZ-2 and its secondary projects.
 
-If you want to make non-technical conversations, go to our [Discord server](https://discord.gg/jHwEcgUR).
+If you want to make non-technical conversations, go to our [Discord server](https://discord.gg/dxq5uvyDJB).
 
 ## Rules
 
